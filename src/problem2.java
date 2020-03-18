@@ -5,7 +5,6 @@ public class problem2 {
     {
         Scanner in = new Scanner(System.in);
 
-
         System.out.println("Enter the first number: ");
         int number1 = in.nextInt();
 
